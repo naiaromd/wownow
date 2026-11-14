@@ -18,7 +18,10 @@
 | 03 กลยุทธ์ | [03_strategy/founder-insights-course.md](03_strategy/founder-insights-course.md) | กลุ่มลูกค้า A/B/C · สมมติฐานผู้เรียน · โครงหลักสูตร · MVP 3 เครื่องมือ |
 | 03 กลยุทธ์ | [03_strategy/precision-academy.md](03_strategy/precision-academy.md) | 2 Track · ราคาเทียบ · Pre-Opening Studio · Precision Therapist |
 | 04 สถาปัตยกรรม | [04_architecture/ai-architecture.md](04_architecture/ai-architecture.md) | หลักออกแบบ AI · 5 ส่วนที่ AI ใช้ · การ์ดความรู้ · วงจรป้อนกลับ |
+| งานค้าง | [_OPEN_LOOPS.md](_OPEN_LOOPS.md) | ทะเบียนงานค้าง (ตัวจริง) · เปิด / รอไนน์ตัดสิน / ปิดแล้ว |
 | 05 การตัดสินใจ | [05_decisions/decisions-log.md](05_decisions/decisions-log.md) | เรื่องที่ไนน์ตัดสินแล้ว · เรื่องที่ยังรอ · ลิงก์เอกสารและสไลด์ |
+
+| 99 เก่า | [99_archive/wownow-v0-ai-assistant-concept.md](99_archive/wownow-v0-ai-assistant-concept.md) | WOW NOW v0 (ผู้ช่วย AI) · ถูกแทนที่ 14 พ.ย. 2026 · เก็บไว้ดูย้อนหลัง |
 
 ## Skill ที่เขียนลงที่นี่
 - `nine-knowledge-extraction` → ต่อท้าย `02_nine-thinking/expert-rules-nine-exam.md`

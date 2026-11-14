@@ -22,5 +22,6 @@
 - Doc · WOW Content Strategy รุ่นแรก: https://claude.ai/artifact/ANZXt8NvN4Ug7gmJ53rUpF
 - Doc · WOW Precision Business Lab หลักสูตรรุ่น 1 (ร่าง): https://claude.ai/artifact/ShFwT4akpPgUgH6AnZL2sb
 - สไลด์ · ก่อนลงทุน 8 ล้าน (เคสสมมติคุณแพร): https://claude.ai/artifact/3ynazAf7wLQVagTg7NntRu
+- Design · BIB 2027 Precision Business Lab (โปสเตอร์ EN สำหรับ icoone อิตาลี ไม่มี WOW + mock-up ไทยสำหรับพาร์ตเนอร์): https://claude.ai/artifact/SZZgBu4cfCkKBhF1oyi4Yy
 - Whiteboard · WOW Precision ภาพใหญ่แบบ Startup: https://claude.ai/artifact/FwNTF9eyHp9hQqBdmNSf2J
 - เรื่องเฉพาะ BIB (ลีด funnel ลูกค้า) อยู่ในโปรเจกต์ Claude "BIB"
