@@ -13,7 +13,7 @@
 | 7 | อัปเดต skill เสียง/วิธีคิดไนน์ (nine-consultant-voice / nine-marketing-thinking) จากหลักคิด 15 ข้อ | Claude ร่าง edits ให้ไนน์กดบันทึก | Claude |
 | 8 | PR #1 knowledge-center รอรวมเข้า main | ไนน์กด Merge หรือสั่ง "รวมเลย" | ไนน์ |
 | 9 | บอร์ดสรุปรายวัน (Whiteboard) | ยังไม่ได้ทำวันนี้ · ทำในแชทใหม่ | Claude |
-| 10 | รีไวซ์ Marketing Strategy BIB เป็น canon 2 ฉบับ (ทีม / อิตาลี) | แชทใหม่ในโปรเจกต์ BIB: อ่าน 01_BIB_Strategy-Marketing_CANON + `03_strategy/bib-2027-lead-strategy.md` | Claude |
+| 10 | ✅ 15 พ.ย. 2026 เสร็จแล้ว: ฉบับทีม https://claude.ai/artifact/EQc2kCN3LQ8GDoRrYrum4V · ฉบับอิตาลี (EN) https://claude.ai/artifact/Eg6gZwx7cmhjuo2xMySjFU · ข้อมูลเจรจา https://claude.ai/artifact/GedbNkpiLveUhNGWVzkjH5 · Content Plan https://claude.ai/artifact/Tc3VKvPyMY5E5SNwkvWmWm | รอไนน์ตรวจ + ตัดสินเรื่องอ้างลินนา | ไนน์ |
 | 11 | sequence landing page → Lab 1 วัน → nurture + key message | ร่างหลังข้อ 10 | Claude |
 | 12 | วันที่ roadmap 90 วัน + ยืนยันจำนวนลีดล่าสุด | ไนน์คุยกับทีม | ไนน์ |
 
