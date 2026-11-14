@@ -1,4 +1,4 @@
-# ทะเบียนงานค้าง · WOW / WOW NOW (+ ส่วน BIB ที่เกี่ยวกับ WOW)
+# ทะเบียนงานค้าง · WOW / WOW NOW (งาน BIB อยู่ในโปรเจกต์ BIB)
 ทะเบียนคือตัวจริง · สรุปส่งต่อ (ContextPack) คือสำเนา · อัปเดต 14 พ.ย. 2026 21:00
 
 ## เปิด (ก้าวถัดไปที่ลงมือได้)
@@ -13,9 +13,7 @@
 | 7 | อัปเดต skill เสียง/วิธีคิดไนน์ (nine-consultant-voice / nine-marketing-thinking) จากหลักคิด 15 ข้อ | Claude ร่าง edits ให้ไนน์กดบันทึก | Claude |
 | 8 | PR #1 knowledge-center รอรวมเข้า main | ไนน์กด Merge หรือสั่ง "รวมเลย" | ไนน์ |
 | 9 | บอร์ดสรุปรายวัน (Whiteboard) | ยังไม่ได้ทำวันนี้ · ทำในแชทใหม่ | Claude |
-| 10 | ✅ 15 พ.ย. 2026 เสร็จแล้ว: ฉบับทีม https://claude.ai/artifact/EQc2kCN3LQ8GDoRrYrum4V · ฉบับอิตาลี (EN) https://claude.ai/artifact/Eg6gZwx7cmhjuo2xMySjFU · ข้อมูลเจรจา https://claude.ai/artifact/GedbNkpiLveUhNGWVzkjH5 · Content Plan https://claude.ai/artifact/Tc3VKvPyMY5E5SNwkvWmWm | รอไนน์ตรวจ + ตัดสินเรื่องอ้างลินนา | ไนน์ |
-| 11 | sequence landing page → Lab 1 วัน → nurture + key message | ร่างหลังข้อ 10 | Claude |
-| 12 | วันที่ roadmap 90 วัน + ยืนยันจำนวนลีดล่าสุด | ไนน์คุยกับทีม | ไนน์ |
+| 10 | ✅ 15 พ.ย. แยกงาน BIB ออกไปโปรเจกต์ BIB (06_BIB_OPEN-LOOPS) · ฝั่ง WOW เหลือ [Content Plan 2027 · WOW](https://claude.ai/artifact/Tc3VKvPyMY5E5SNwkvWmWm) | ไนน์แก้ช่อง "เจ้าของธุรกิจกำลังเจอ" ในธีมรายเดือน | ไนน์ |
 
 ## รอเจ้าของงานตัดสิน (ไนน์)
 - ราคารุ่นแรก: 89,000/59,000 หรือ 59,000/45,000 หรือรอช่วงราคาจาก Pilot?
