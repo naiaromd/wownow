@@ -13,6 +13,9 @@
 | 7 | อัปเดต skill เสียง/วิธีคิดไนน์ (nine-consultant-voice / nine-marketing-thinking) จากหลักคิด 15 ข้อ | Claude ร่าง edits ให้ไนน์กดบันทึก | Claude |
 | 8 | PR #1 knowledge-center รอรวมเข้า main | ไนน์กด Merge หรือสั่ง "รวมเลย" | ไนน์ |
 | 9 | บอร์ดสรุปรายวัน (Whiteboard) | ยังไม่ได้ทำวันนี้ · ทำในแชทใหม่ | Claude |
+| 10 | รีไวซ์ Marketing Strategy BIB เป็น canon 2 ฉบับ (ทีม / อิตาลี) | แชทใหม่ในโปรเจกต์ BIB: อ่าน 01_BIB_Strategy-Marketing_CANON + `03_strategy/bib-2027-lead-strategy.md` | Claude |
+| 11 | sequence landing page → Lab 1 วัน → nurture + key message | ร่างหลังข้อ 10 | Claude |
+| 12 | วันที่ roadmap 90 วัน + ยืนยันจำนวนลีดล่าสุด | ไนน์คุยกับทีม | ไนน์ |
 
 ## รอเจ้าของงานตัดสิน (ไนน์)
 - ราคารุ่นแรก: 89,000/59,000 หรือ 59,000/45,000 หรือรอช่วงราคาจาก Pilot?
