@@ -20,6 +20,7 @@
 | 03 กลยุทธ์ | [03_strategy/precision-academy.md](03_strategy/precision-academy.md) | 2 Track · ราคาเทียบ · Pre-Opening Studio · Precision Therapist |
 | 03 กลยุทธ์ | [03_strategy/bib-2027-lead-strategy.md](03_strategy/bib-2027-lead-strategy.md) | BIB 2027 · Education-led Funnel · ปลุกลีดเดิมด้วย Lab 1 วัน · กติกาการสื่อสารกับอิตาลี/ไทย |
 | 04 สถาปัตยกรรม | [04_architecture/ai-architecture.md](04_architecture/ai-architecture.md) | หลักออกแบบ AI · 5 ส่วนที่ AI ใช้ · การ์ดความรู้ · วงจรป้อนกลับ |
+| 04 สถาปัตยกรรม | [04_architecture/menu-opportunity-reader-spec.md](04_architecture/menu-opportunity-reader-spec.md) | คำสั่ง AI อ่านเมนูคลินิก → โอกาส icoone · วิธีนับ · สัญญาณ · สูตรคืนทุน · ค่าตรวจสอบ MedConsult |
 | งานค้าง | [_OPEN_LOOPS.md](_OPEN_LOOPS.md) | ทะเบียนงานค้าง (ตัวจริง) · เปิด / รอไนน์ตัดสิน / ปิดแล้ว |
 | 05 การตัดสินใจ | [05_decisions/decisions-log.md](05_decisions/decisions-log.md) | เรื่องที่ไนน์ตัดสินแล้ว · เรื่องที่ยังรอ · ลิงก์เอกสารและสไลด์ |
 
