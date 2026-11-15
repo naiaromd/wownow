@@ -30,5 +30,5 @@
 - งานเสียงแบรนด์ใช้ skill bib-voice · งานภาพใช้ nine-visual-check · งานเด็คใช้ nine-deck-check (ถ้ามีในเครื่องมือนั้น)
 
 ## ไฟล์ในโฟลเดอร์ `bib/`
-00 Instructions · 01 กลยุทธ์และการตลาด · 02 ลูกค้าและลีด · 03 ผลิตภัณฑ์ หลักฐาน ความรู้ · 04 แพลตฟอร์มและ AI · 06 งานค้างและสิ่งที่รอตัดสิน · 07 ดัชนีแหล่งข้อมูล · 08 ใบงาน Claude Code · 09 Funnel และเครื่องมือ · 10 Lab ส่วนของ BIB · 15 Funnel + Lab CANON · 16 แผนที่ 40 โปรแกรม · 17 ความสัมพันธ์และโทนกับ I-Tech · 18 งานวิจัย Sales & Marketing 2027 (ต้นฉบับใน `sources/`) · 19 สัญญา · 21 Brand Guideline r05 (ร่าง) · 22 Marketing knowledge (สัญญา I-Tech = 19)
+00 Instructions · 01 กลยุทธ์และการตลาด · 02 ลูกค้าและลีด · 03 ผลิตภัณฑ์ หลักฐาน ความรู้ · 04 แพลตฟอร์มและ AI · 06 งานค้างและสิ่งที่รอตัดสิน · 07 ดัชนีแหล่งข้อมูล · 08 ใบงาน Claude Code · 09 Funnel และเครื่องมือ · 10 Lab ส่วนของ BIB · 15 Funnel + Lab CANON · 16 แผนที่ 40 โปรแกรม · 17 ความสัมพันธ์และโทนกับ I-Tech · 18 งานวิจัย Sales & Marketing 2027 (ต้นฉบับใน `sources/`) · 19 สัญญา I-Tech · 21 Brand Guideline r05 (ร่าง) · 22 Marketing knowledge
 - 05 AI Architecture (WOW NOW) อยู่ที่ `knowledge/04_architecture/ai-architecture.md`
