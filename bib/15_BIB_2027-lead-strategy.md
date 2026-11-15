@@ -136,3 +136,13 @@ Lab เป็นของ WOW · BIB เป็นลูกค้ารายแ�
 - โครง: Hook (payback) → ความท้าทายตลาด 3 ข้อ → Insight → Funnel 6 stage → ลีดที่ใช่ → Scanner (ตัวอย่าง MedConsult 22/11/7 เดือน) → วิทยาศาสตร์ง่าย → Demo → Lab → ลูกค้าเดิม → เช็กพอยต์ 29 พ.ย. / 15 ธ.ค. / 14 ม.ค. / 13 ก.พ. → Why BIB + สิ่งที่ขอ
 - ตัดออกตามกติกา I-Tech: ตัวเลขจุดอ่อน · เป้าเครื่อง 9/14 · AI/WOW
 - รอนาย: สิ่งที่ขอจาก I-Tech 3 ข้อ (ช่อง [ASK]) · ยืนยันเป้าที่ใส่ในหน้า 10
+
+## 16. Persona B2B ที่มีอยู่แล้ว → Landing page ราย segment [15 พ.ย. 2026]
+ที่มา: เครื่องนาย `1_icoone/Strategy/BIB_Customer_Persona_Target_Segmentation_r01_20260720.md` (8 Persona · Segment A–H · Priority matrix) + `BIB_Persona_Customer_Journey_Touchpoint_Map_r01` + ไฟล์ 22 ข้อ 4
+| Landing [AI เสนอ] | Segment | Persona (ลูกค้าจริง) | priority เดิม | เกณฑ์นาย 15 พ.ย. |
+|---|---|---|---|---|
+| 1 คลินิกความงามพรีเมียมที่มีลูกค้าอยู่แล้ว (รวมเชนหลายสาขา) | A + E | P2 Owner-Operator (Sincere) | P1 / P2 | พรีเมียม · ในเมือง |
+| 2 ฟื้นฟูหลังผ่าตัด | B (+F) | P3 Specialized Clinical (KMB) · P8 Evidence Gatekeeper (BDMS) | P1 | ศูนย์ฟื้นฟูหลังผ่าตัด |
+| 3 Wellness · Longevity | D | P4 Integrative Curator (Unwa · Kihava) | P2 | Wellness/Longevity |
+| 4 รีสอร์ต · โรงแรม · destination | C | P1 Luxury Brand-Pull (Amanpuri) · P5 Corporate Proof (Anantara) | P1 strategic | ไม่อยู่ในเกณฑ์ "ในเมือง" → รอนายตัดสิน |
+- ไม่ทำ landing: G รัสเซียภูเก็ต (ชุดภาษารัสเซียแยก) · H เปิดใหม่ทราฟฟิกน้อย (P4)
