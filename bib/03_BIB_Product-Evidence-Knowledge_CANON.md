@@ -13,6 +13,8 @@
 | ใช้ >30 ประเทศ | ยังไม่เจอหลักฐาน | ขอจาก I-Tech |
 แก้ในเอกสารขาย: booklet เขียน icoone Medical "ไม่ใช้ LASER/LED" แต่ขาย LED 650 + LASER 915 → แยกรุ่นให้ชัด
 
+ขีดจำกัดงานวิจัยต่างประเทศ (Palmieri 2019 · Scuderi · Renuvion+icoone 2026) · คำที่ควรพักใช้ ("คืนทุน 7 เดือน" · "2x efficacy" · "เครื่องเดียวในโลก" · "เห็นผลครั้งแรก") · กติกาโฆษณา อย. 3 แบบ → ไฟล์ 18 ข้อ 6
+
 ## 2. หลักฐานผลลัพธ์ · วิจัยใต้คาง (DPU)
 Tangtrongphon S, Maiprasert M. Randomized split-face pilot · นำเสนอ 24 พ.ค. 2026 · ยังไม่ตีพิมพ์ · ไฟล์ `Marketing/icoone_Submental_Research_Summary_Client_TH_r01_20260722.html`
 - ผู้หญิงไทย 15 คน อายุ 25–40 · ครึ่งหน้าจริง vs ทำหลอก · 10 ครั้ง × 30 นาที · วัดภาพ 3 มิติ (QuantifiCare)
