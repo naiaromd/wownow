@@ -1,6 +1,6 @@
 # WOW Knowledge Center · สารบัญ
 
-> **อ่านก่อนทุกครั้ง:** [03_strategy/wow-compass.md](03_strategy/wow-compass.md) (เข็มทิศ WOW: ปัญหา กลุ่มแรก Lean Canvas จิ๊กซอว์ parking lot) · [01_knowledge/glossary.md](01_knowledge/glossary.md) (ภาษากลาง) · [01_knowledge/frameworks-and-theories.md](01_knowledge/frameworks-and-theories.md) (ทฤษฎี หลักฐานงานวิจัย จุดต่างที่สเกลได้) · [03_strategy/wow-signature-series.md](03_strategy/wow-signature-series.md) (สูตรคอนเทนต์ซีรีส์สองเสียง)
+> **อ่านก่อนทุกครั้ง:** [03_strategy/wow-compass.md](03_strategy/wow-compass.md) (เข็มทิศ WOW: ปัญหา กลุ่มแรก Lean Canvas จิ๊กซอว์ parking lot) · [01_knowledge/glossary.md](01_knowledge/glossary.md) (ภาษากลาง) · [01_knowledge/frameworks-and-theories.md](01_knowledge/frameworks-and-theories.md) (ทฤษฎี หลักฐานงานวิจัย จุดต่างที่สเกลได้) · [03_strategy/wow-signature-series.md](03_strategy/wow-signature-series.md) (สูตรคอนเทนต์ คิด.คู่ใจ · ใจ × ไนน์)
 
 
 ที่เก็บความรู้ทั้งหมดของ WOW · Wise Of Wellness และ WOW NOW ที่เดียว
