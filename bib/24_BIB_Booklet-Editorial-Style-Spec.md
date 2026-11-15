@@ -73,3 +73,20 @@ AVOID
 ## ใช้กับงาน B2B (เช่นบอร์ด Lab) [AI เสนอ]
 - หน้าเรื่อง (Editorial) ใช้แบบ 2 · 3 · 4 · 6 · 11 · ตาราง KPI/Funnel ย้ายเป็นหน้าข้อมูลท้ายชุด (ภาคผนวก)
 - "เสียงลูกค้า" ฝั่ง B2B = คำพูดเจ้าของคลินิกจริง เช่น "อยากเพิ่มบริการใหม่ แต่ไม่แน่ใจว่าลูกค้าของเราจะซื้อหรือเปล่า" (หน้า Landing)
+
+## Tagline B2B · Precision Beauty. Trusted Growth. [นายพูด 15 พ.ย. 2026 · คีปคำนี้]
+ภาษาไทยใช้วิธี transcreation (ตีความแล้วสร้างคำใหม่) ไม่แปลตรง · prompt ที่ใช้สั่ง AI:
+
+```
+ROLE: Thai senior copywriter for a premium medical-aesthetic brand (not a translator).
+TASK: Transcreate the English tagline "Precision Beauty. Trusted Growth." into Thai.
+Do not translate word by word. First write, in one line, the feeling the English line gives a clinic owner. Then write Thai lines that give that same feeling.
+AUDIENCE: Thai owners of aesthetic, wellness and spa clinics. They want results they can prove to their clients and a business that grows without risk.
+BRAND FEEL: precise, intelligent, futuristic, trustworthy, and beautiful. Calm confidence, never salesy.
+RULES:
+- 2 short parts with a pause (·), max 14 Thai syllables total
+- natural spoken Thai a clinic owner would say out loud; no textbook words, no literal "การเติบโตที่เชื่อถือได้"
+- each part must carry an image or feeling, not a description
+- rhythm or sound echo between the two parts is a plus
+OUTPUT: 8 options in a table: Thai line · back-translation in English · which keywords it carries · why it sounds Thai, not translated. Then pick your top 2.
+```
