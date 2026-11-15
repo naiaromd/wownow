@@ -73,3 +73,13 @@
 ## นายต้องตัดสิน
 - อนุมัติ Touchpoint Map + 6 MoT ก่อนขั้น 4 (ทำหน้าจอ)
 - ชื่อคนดูแลในข้อความ Scanner (นาย / ทีม)
+
+## Personal Business Growth Partner ราย persona [AI เสนอ 15 พ.ย. 2026 · รอนายใส่ชื่อคน]
+ทักษะร่วมทุกคน: อ่านเมนูทำ Scanner · คำนวณ ROI/คืนทุน · ทำพิธีวัดผล The Split · นำ Lab · ทำ Growth Review · วินัย CRM (ทุกดีลมีวันนัด) · เสียง bib-voice · คำกล่าวอ้างอยู่ในข้อบ่งใช้ FDA
+| Persona | ตำแหน่ง | พื้นฐานที่เหมาะ | ทักษะเฉพาะ |
+|---|---|---|---|
+| ความงามพรีเมียม | Clinic Growth Partner | ผู้จัดการคลินิกความงาม / เซลส์เครื่องมือแพทย์ที่เข้าใจ P&L คลินิก | คุยกับหมอเจ้าของแบบที่ปรึกษา · ราคาเมนูและแพ็กเกจ · ออกแบบงานให้ operator ทำแทนหมอ · คอนเทนต์คลินิก + LINE |
+| ฟื้นฟูหลังผ่าตัด | Clinical Recovery Partner | นักกายภาพ/พยาบาลที่ทำดูแลหลังผ่าตัด หรือ medical science liaison | อ่านและอธิบายงานวิจัย · ออกแบบ protocol ตามหัตถการ · คุยกับศัลยแพทย์และคณะกรรมการ · consent/PDPA · วัดผลลัพธ์ |
+| Wellness · Longevity | Wellness Pathway Partner | ผู้ออกแบบโปรแกรม wellness / ที่ปรึกษาสปา-เวลเนส | ออกแบบ pathway และ journey · เศรษฐศาสตร์สมาชิก (ต่ออายุ กลับมาซ้ำ) · พิธีวัดผล · เล่าเรื่องไม่เกินหลักฐาน |
+| รีสอร์ต · โรงแรม | Hospitality Spa Partner | Spa Director/Manager โรงแรมหรู | KPI สปา (capture rate · treatment room utilisation · รายได้ต่อชั่วโมงห้อง) · เทรนเทราปิสต์และบทขาย · guest experience · รายงานให้ GM/corporate · รักษาความเป็นส่วนตัว · ภาษาอังกฤษ |
+- 90 วันแรก (ทีมเล็ก): 2 คนดูแล 2 persona · A = ความงาม + หลังผ่าตัด (สายคลินิก) · B = Wellness + รีสอร์ต (สาย hospitality)
