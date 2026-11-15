@@ -13,6 +13,8 @@
 ## ไฟล์ความรู้ BIB ในรีโป (โฟลเดอร์ `bib/`)
 00 Instructions · 01 กลยุทธ์และการตลาด · 02 ลูกค้าและลีด · 03 ผลิตภัณฑ์ หลักฐาน · 04 แพลตฟอร์มและ AI · 06 งานค้าง · 07 ดัชนีนี้ · 08 ใบงาน Claude Code · 09 Funnel และเครื่องมือ · 10 Precision Academy · 15 กลยุทธ์ลีด 2027 · 16 แผนที่ 40 โปรแกรม · 17 ความสัมพันธ์และโทนกับ I-Tech · 18 งานวิจัย Sales & Marketing 2027 (สรุป)
 - ต้นฉบับเต็ม: `bib/sources/BIB_Sales_Marketing_2027_Research_TH_r01_20261105.md` (แหล่งอ้างอิง I01–I09 · E01–E23)
+- แฟ้มกลยุทธ์ 2027 แบ่งหมวด (HTML): `bib/sources/BIB_2027_Strategy_Categorized_INTERNAL_TH_v1.0_20261115.html` (ข้อมูลตัด 5 พ.ย. · สรุปในไฟล์ 18 ภาคผนวก)
+- ทั้งสองชุดเก่ากว่าไฟล์ 01–17 · ถ้าขัดกัน ใช้ไฟล์ 01–17
 - ไฟล์ 05 AI Architecture (WOW NOW) อยู่ที่ `knowledge/04_architecture/ai-architecture.md`
 
 ## Artifacts
