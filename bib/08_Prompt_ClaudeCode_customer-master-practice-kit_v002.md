@@ -9,7 +9,7 @@
 ## 1. อ่านก่อนเริ่ม
 1. `Strategy/BIB_icoone_Practice_Intelligence_Product_Strategy_r01_20260720.md` ข้อ 2, 5, 6, 8, 10, 11, 12
 2. `Strategy/BIB_Customer_Persona_Target_Segmentation_r01_20260720.md` (8 Persona + กลุ่ม A–H = ค่าแท็กกลุ่ม)
-3. `Sales/icoone_Commercial_Guardrails_INTERNAL_r01_20260719.md` (แผน A–D + E ลีสซิ่งกรุงศรีกำลังเตรียม)
+3. `Sales/icoone_Commercial_Guardrails_INTERNAL_r01_20260719.md` (แผน A–D + E ลีสซิ่ง MUFLTH (กรุงศรี)กำลังเตรียม)
 4. `Strategy/icoone_Thailand_Full_Business_Plan_H2_2026_TH_r01.md` ข้อ 1–2, 15
 5. `Marketing/BIB_Brand_Guideline_r04_20260720.md` ข้อ 7–9, 13
 6. `CRM/BIB_Customer_Lead_CANON_v005_2026-11-14.xlsx`
