@@ -70,3 +70,4 @@
 - คอนเทนต์ 3 สัปดาห์ยังไม่มีตัวเลขที่มีที่มา
 - Design system BIB https://claude.ai/artifact/4mfoxCz7dFjC6wZaCkFqEt · Mood board slug 59682f0d-3394-40a8-9db6-b4dc4d5d726b
 - บอร์ดสรุปวัน 13 พ.ย. https://claude.ai/artifact/5LcCFsVpjfjR42JNfDyoev · 14 พ.ย. https://claude.ai/artifact/QmhTSeM4HEayfXF3sxd5aY
+- 20. [15 พ.ย.] อนุมัติ Brand Guideline r05 รายข้อ (ไฟล์ 21 ตาราง 1–7) · หลังอนุมัติรวมเป็นฉบับเต็มแทน r04 [รอนาย]
