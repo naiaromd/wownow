@@ -37,3 +37,4 @@ BIB_MarketingStrategy2027_CANON_v001 · BIB_Strategy2027_OnePage_v001/v002 · BI
 - [16 พ.ย.] ตลาดรัสเซียสายศัลยกรรม (ภูเก็ต vs พัทยา · วีซ่า 30 วัน · การจ่ายเงิน · เอเจนต์ 6.5–20%) + CFO/TFRS 16 + WT/WO → ไฟล์ 31
 - [16 พ.ย.] Industry Insight Cards (Scanner ขั้น 0) · GLP-1: STEP 1 ext. doi:10.1111/dom.14725 · อย.ยาควบคุมพิเศษ 15 ก.ย. 69 · McKinsey/ASPS → ไฟล์ 32
 - [16 พ.ย.] Evidence Pack ตลาดศัลยกรรม/รัสเซีย/ประเทศต้นทาง/อินฟลูเอนเซอร์ → ไฟล์ 33 (รวม 31 + 32 + VerifiedFacts)
+- [16 พ.ย.] ตลาดฟื้นฟูหลังผ่าตัด โลก/เกาหลี/รัสเซีย/ไทย + Telegram รอบแรก → ไฟล์ 35 · GLP-1 deep research → ไฟล์ 34
