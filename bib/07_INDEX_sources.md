@@ -20,6 +20,8 @@
 ## Artifacts
 แดชบอร์ดลูกค้าและลีด https://claude.ai/artifact/NeHW7ZRXgNgWSC9yJjLzkG · เอกสารลีด https://claude.ai/artifact/7x792MYUjhALHHQC6D9EzQ · Marketing Strategy doc (เดิม) https://claude.ai/artifact/9vWAtFrEJ15SiSFhTUAbcc · Deck https://claude.ai/artifact/4JzrpFwaZxS9FT29eDD5kV · Design system https://claude.ai/artifact/4mfoxCz7dFjC6wZaCkFqEt · BIB MVP https://claude.ai/artifact/8uSA8JWK2pSaD93pxVXGeq · บอร์ดกลยุทธ์ต้นแบบ https://claude.ai/artifact/TF5ibNyxC6L83i9GBe6jmF
 15 พ.ย.: Marketing Strategy ฉบับทีม https://claude.ai/artifact/EQc2kCN3LQ8GDoRrYrum4V · ฉบับอิตาลี https://claude.ai/artifact/Eg6gZwx7cmhjuo2xMySjFU · ข้อมูลเจรจา https://claude.ai/artifact/GedbNkpiLveUhNGWVzkjH5 · Content Plan BIB https://claude.ai/artifact/9WD9BjvWUE95B4gtk4k9NE · บอร์ดโปสเตอร์/Landing/Case Study https://claude.ai/artifact/SZZgBu4cfCkKBhF1oyi4Yy
+Presentation (Slides): BIB · icoone Marketing Strategy 2027 (12–13 พ.ย. · ลิงก์สาธารณะ) https://claude.ai/artifact/J5oSW6UBh7ThpRMxpxLzY1 · BIB × I-Tech ข้อเสนอความร่วมมือ 2027 ร่างไทย (12 พ.ย.) https://claude.ai/artifact/GCrybGr6mpCXoYBYndFgwN · ข้อเสนอโฉมใหม่ + Pilot 3 งาน (14 พ.ย.) https://claude.ai/artifact/4JzrpFwaZxS9FT29eDD5kV
+ข้อเสนอ I-Tech v3.0 โทนใหม่ (Doc อังกฤษ · 15 พ.ย.) https://claude.ai/artifact/MX8mtPNiSmiCVGo9E14DbX
 
 ## ระบบ
 bib.wiseofwellness.com/platform · beautyinbeyond.com · FigJam Journey v2 Sn54kbY4t8qy0M6555xgKt · GitHub naiaromd/bib-platform · naiaromd/wownow · Supabase wow-passport (xwzrlviyuukfxujpbkni) · Drive การเงิน 1itL0xsBJfyx-YeCMmihb1qG8EX2h_4Ms · Drive WOW_OS BIB folder 1af-22E4F25lCCoB3ldnwZloShZ72BYnc
