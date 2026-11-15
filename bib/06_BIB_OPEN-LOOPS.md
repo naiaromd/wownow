@@ -14,6 +14,8 @@
 - (15 พ.ย.) ลีสซิ่ง MUFLTH พร้อมใช้: 48 งวด 52,083/เดือน · 60 งวด 41,667/เดือน · ไม่มีเงินประกัน · IplusQ อุดหนุนดอกเบี้ย → ไฟล์ 01 ข้อ 14.1
 - (15 พ.ย.) ความรู้ BIB ย้ายเข้ารีโป `naiaromd/wownow` (ส่วนตัว) โฟลเดอร์ `bib/` เพื่อให้ AI ทุกตัวใช้ชุดเดียวกัน
 
+- (15 พ.ย. ค่ำ) [นายพูด] กลยุทธ์ B2B ไม่พูดเป้าเครื่อง เน้น KPI ตาม Funnel ที่ผูกกับกิจกรรม (เคย commit ตัวเลขแต่ไม่มี KPI ขับ) · ปัญหาหลัก 3 ข้อ: cold call ตอบน้อย · เปลี่ยนเป็นเดโมยาก · ลีดที่ใช่หายาก · สื่อสาร icoone ให้เป็น simplified demonstration · เอากติกาคำกล่าวอ้างออกจาก Instructions (ใช้คำการตลาดทั่วไป) · จะมี Content Template + prompt ภาพตาม segment ให้ลูกค้า และ Personalized Lab กับลูกค้าจริง · ชื่อคลินิกที่ถูกคือ Sincere (ไม่ใช่ Sincia) → ไฟล์ 02 ยังเขียน Sincia และแยก Sincere = Mango Tango ต้องให้นายยืนยันว่าเป็นรายเดียวกันไหม
+
 ## เอกสารชุด 15 พ.ย. 2026 (open loop เดิมข้อ 10 เสร็จแล้ว)
 - Marketing Strategy ฉบับทีม: https://claude.ai/artifact/EQc2kCN3LQ8GDoRrYrum4V
 - ฉบับส่งอิตาลี (EN): https://claude.ai/artifact/Eg6gZwx7cmhjuo2xMySjFU
