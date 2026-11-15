@@ -1,5 +1,8 @@
 # WOW Knowledge Center · สารบัญ
 
+> **อ่านก่อนทุกครั้ง:** [03_strategy/wow-compass.md](03_strategy/wow-compass.md) (เข็มทิศ WOW: ปัญหา กลุ่มแรก Lean Canvas จิ๊กซอว์ parking lot) · [01_knowledge/glossary.md](01_knowledge/glossary.md) (ภาษากลาง)
+
+
 ที่เก็บความรู้ทั้งหมดของ WOW · Wise Of Wellness และ WOW NOW ที่เดียว
 อัปเดตล่าสุด: 14 พ.ย. 2026
 
