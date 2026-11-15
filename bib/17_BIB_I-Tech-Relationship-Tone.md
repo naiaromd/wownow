@@ -55,6 +55,7 @@
 
 ## กติกาการเขียน
 - เปิดด้วยสิ่งที่ BIB สร้างได้และสิ่งที่กำลังจะเกิด · ไม่ใส่เป้าและยอดขายเทียบเป้า (9/14) · แผนบอกเป็นสิ่งที่จะทำ + วิธีที่ I-Tech จะเห็นผล [นายพูด 15 พ.ย.]
+- [นายพูด 15 พ.ย.] ตัวเลขจำนวนที่ชี้จุดอ่อนไม่ใส่ เช่น "5 clinics" (ฟังว่าน้อย) · "240 leads" (ชวนถามว่าทำไมปิดได้น้อย) · ใช้คุณภาพแทนจำนวน: ประเภทลูกค้าอ้างอิง (โรงพยาบาล · รีสอร์ตที่มีใบอนุญาตคลินิก · คลินิกความงาม · medical wellness) · รู้ว่าคลินิกไหนในไทยเหมาะ · % ที่ลงทุนเพิ่ม
 - ทุกตัวเลขมีคำตอบของ "แล้วไง" อยู่ข้างๆ · เตรียมคำตอบของคำถามถัดไป เช่น ลีด → ทำไมไม่เพิ่ม → แผนเพิ่มลีด
 - ทุกเหตุผลมีหลักฐานแนบ (ตัวเลข · เอกสาร · เคส) · ถ้าไม่มีหลักฐาน อย่าใช้เป็นเหตุผล ให้เก็บไว้
 - แสดงความต่างจากปีที่แล้วด้วยสิ่งที่ "ทำแล้ว" และวัดได้ใน 90 วัน ไม่ใช้คำสัญญาลอยๆ
@@ -66,9 +67,9 @@
 - ความจริงใจ: ตัวเลขทุกตัวตรงกับข้อมูลจริง · ถ้าเขาถามตรงเรื่องยอด ตอบตรงสั้นๆ แล้วพาไปแผน
 
 ## ตัวอย่างโทน [AI เสนอ]
-- "We now have 240 qualified clinic leads. 26 have seen a demo."
+- "icoone runs today in a private hospital, luxury resorts with clinic licenses, a beauty clinic and medical wellness centers."
 - "Two things slowed sales this year. One we cannot control. One we can — and we already changed it."
-- "A new distributor would start from zero. We start from 5 installed clinics, one clinical study, and the Thai Spa Association network."
+- "A new distributor would start from zero. We start from reference sites, local evidence, and an industry network."
 - "We are interested in icoone Micro Facial. Please share the price and terms, so we can position both devices clearly."
 - "What we need from you: …" (ขอสั้น ชัด จับต้องได้)
 
