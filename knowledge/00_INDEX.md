@@ -16,6 +16,7 @@
 | กล่อง | ไฟล์ | มีอะไร |
 |---|---|---|
 | 01 ความรู้ | [01_knowledge/knowledge-vs-thinking.md](01_knowledge/knowledge-vs-thinking.md) | ความรู้ 20 ข้อ (pre-opening ตลาด การสอน ข้อมูลตลาด framework) + หลักคิดและสไตล์นาย 15 ข้อ + จุดยืน WOW / WOW NOW |
+| 01 ความรู้ | [01_knowledge/prompt-one-pager-bento-image.md](01_knowledge/prompt-one-pager-bento-image.md) | Prompt One-pager สไตล์ Bento การ์ด + ภาพประกอบ (ครอปตรงเนื้อหา) · ใช้ได้กับ AI ทุกตัว · ต้นแบบหน้า Lab |
 | 02 วิธีคิดนาย | [02_nai-thinking/expert-rules-nai-exam.md](02_nai-thinking/expert-rules-nai-exam.md) | กฎ R1–R12 จากการสอบนาย · วิธีต่อจุด 5 ขั้น · เรื่องเล่าผู้ก่อตั้ง · ข้อสอบชุดที่ 1 · แอปตัวอย่าง (Stitch Fix, Delphi, ChatGPT) |
 | 03 กลยุทธ์ | [03_strategy/wownow-growth-tools.md](03_strategy/wownow-growth-tools.md) | หมวด High Involvement · คู่แข่ง AI · เผื่อ icoone ต่างประเทศ · Precision Growth Method |
 | 03 กลยุทธ์ | [03_strategy/founder-insights-course.md](03_strategy/founder-insights-course.md) | กลุ่มลูกค้า A/B/C · สมมติฐานผู้เรียน · โครงหลักสูตร · MVP 3 เครื่องมือ |
