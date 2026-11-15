@@ -43,3 +43,5 @@ BIB_MarketingStrategy2027_CANON_v001 · BIB_Strategy2027_OnePage_v001/v002 · BI
 - 2026-11-16 · `36_BIB_Surgery-Market-Key-Findings.md` สรุปรวมไฟล์ 18 25 31–35 (key findings · growth program · content pillars)
 
 - 2026-11-16 · `37_BIB_icoone-What-It-Helps_Evidence.md` icoone ช่วยอะไร (ข้อบ่งใช้ CE จาก CER + 13 เอกสารวิทยาศาสตร์ใน Knowledge Center)
+
+- 2026-11-16 · `38_BIB_Evidence-Signal-Cards_Surgery.md` การ์ดหลักฐาน 10 ใบ ตรวจที่มาแล้ว · ตัด 3 ข้อที่หาที่มาไม่เจอ · แก้: FDA ของ Laser Med คือ K211272 (K182453 = ICOONE h)
