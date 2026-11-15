@@ -30,6 +30,7 @@
 - ต้องใช้: รายงานที่เตรียมไว้ · ร่างสัญญาจาก I-Tech · หลักฐานปัจจัยภายนอกและความพยายาม · ราคา icoone Micro Facial
 
 ## รอนายตัดสิน
+- [16 พ.ย. · นายพูด] หยุดแก้ landing 4 Partner · กลับไปยึด Precision Business Lab เป็นแกน (ภาษาทางการ สั้น กระชับ · font/สีเดียวกัน แนว Bento)
 - [16 พ.ย. · AI เสนอ] Brand Book v1.0 (ไฟล์ 30 · Google Doc https://docs.google.com/document/d/1Qcz7FZGrSeWlipXKefQZD4ITL4fhvJ3e8rntVrqqeNE) แทน v0.9 · รอนายตัดสิน 6 ข้อในหมวด I: archetype · ระบบสี landing · Purpose/Vision/Mission/Promise · persona · ชื่อ Partner · สถานะเล่ม (v1.0 แทน v0.9 + r05)
 1. ~~เป้า 14 เครื่อง นับปี 2026 หรือ 2027~~ ปิดแล้ว: 14 = I-Tech คาดหวังปี 2026 · BIB คาด 9
 2. 10 ประเภทลูกค้าของคลินิก (ไฟล์ 03 ข้อ 4 · ไฟล์ 16) ใช้ได้ไหม
