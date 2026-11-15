@@ -19,6 +19,8 @@
 | 02 วิธีคิดนาย | [02_nai-thinking/expert-rules-nai-exam.md](02_nai-thinking/expert-rules-nai-exam.md) | กฎ R1–R12 จากการสอบนาย · วิธีต่อจุด 5 ขั้น · เรื่องเล่าผู้ก่อตั้ง · ข้อสอบชุดที่ 1 · แอปตัวอย่าง (Stitch Fix, Delphi, ChatGPT) |
 | 03 กลยุทธ์ | [03_strategy/wownow-growth-tools.md](03_strategy/wownow-growth-tools.md) | หมวด High Involvement · คู่แข่ง AI · เผื่อ icoone ต่างประเทศ · Precision Growth Method |
 | 03 กลยุทธ์ | [03_strategy/founder-insights-course.md](03_strategy/founder-insights-course.md) | กลุ่มลูกค้า A/B/C · สมมติฐานผู้เรียน · โครงหลักสูตร · MVP 3 เครื่องมือ |
+| 03 กลยุทธ์ | [03_strategy/series-status.md](03_strategy/series-status.md) | สถานะซีรีส์ คิด.คู่ใจ · ตอนไหนเสร็จ · ข้อเท็จจริงที่ต้องตรวจ |
+| 03 กลยุทธ์ | [03_strategy/nuad-thai-series-parked.md](03_strategy/nuad-thai-series-parked.md) | ส่วนที่ตัดออกจากซีรีส์ Nuad Thai Words (ใช้ตอนหลัง) |
 | 03 กลยุทธ์ | [03_strategy/precision-academy.md](03_strategy/precision-academy.md) | 2 Track · ราคาเทียบ · Pre-Opening Studio · Precision Therapist |
 | 04 สถาปัตยกรรม | [04_architecture/ai-architecture.md](04_architecture/ai-architecture.md) | หลักออกแบบ AI · 5 ส่วนที่ AI ใช้ · การ์ดความรู้ · วงจรป้อนกลับ |
 | 04 สถาปัตยกรรม | [04_architecture/menu-opportunity-reader-spec.md](04_architecture/menu-opportunity-reader-spec.md) | Opportunity Scanner: คำสั่ง AI อ่านเมนูคลินิก → โอกาส icoone · วิธีนับ · สัญญาณ · สูตรคืนทุน · ค่าตรวจสอบ MedConsult |
