@@ -34,3 +34,4 @@ BIB_MarketingStrategy2027_CANON_v001 · BIB_Strategy2027_OnePage_v001/v002 · BI
 - [15 พ.ย.] `bib/sources/marketing/` · Brand Guideline r04 · Design System r02 · USP/Persona r02 · VerifiedFacts r01 · Voice/Media r01 · SMART Demo Card r03 · SQL/Russian Persona r01 · Landing & Ads r01 → สรุปที่ไฟล์ 21 (r05 ร่าง) และ 22 (Marketing knowledge)
 - [15 พ.ย.] Sales & Marketing Strategy 2027 (Precision Business Growth · ฉบับเต็ม): https://claude.ai/artifact/Stz2HfyUXGAxWLEVLNLqxr · ตัวเลขขาจากงานวิจัย PMC9320137 ที่ถูกคือ นั่ง 2 ชม. น่องใหญ่ขึ้น 3.20% (หญิง) 1.85% (ชาย) วัยกลางคน (สกิล bib-voice เขียน 2.2%/1.4% ต้องแก้)
 - [16 พ.ย.] Brand Book v0.9 (Google Doc 1QoLnTFJ… · แก้ไม่ได้ สิทธิ์อ่านอย่างเดียว) → ปรับเป็น v1.0 ที่ไฟล์ 30 + Google Doc ใหม่โฟลเดอร์เดียวกัน 1Qcz7FZG…
+- [16 พ.ย.] ตลาดรัสเซียสายศัลยกรรม (ภูเก็ต vs พัทยา · วีซ่า 30 วัน · การจ่ายเงิน · เอเจนต์ 6.5–20%) + CFO/TFRS 16 + WT/WO → ไฟล์ 31
