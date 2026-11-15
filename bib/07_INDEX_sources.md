@@ -38,3 +38,4 @@ BIB_MarketingStrategy2027_CANON_v001 · BIB_Strategy2027_OnePage_v001/v002 · BI
 - [16 พ.ย.] Industry Insight Cards (Scanner ขั้น 0) · GLP-1: STEP 1 ext. doi:10.1111/dom.14725 · อย.ยาควบคุมพิเศษ 15 ก.ย. 69 · McKinsey/ASPS → ไฟล์ 32
 - [16 พ.ย.] Evidence Pack ตลาดศัลยกรรม/รัสเซีย/ประเทศต้นทาง/อินฟลูเอนเซอร์ → ไฟล์ 33 (รวม 31 + 32 + VerifiedFacts)
 - [16 พ.ย.] ตลาดฟื้นฟูหลังผ่าตัด โลก/เกาหลี/รัสเซีย/ไทย + Telegram รอบแรก → ไฟล์ 35 · GLP-1 deep research → ไฟล์ 34
+- [16 พ.ย.] คู่มือ 40 โปรแกรมทางการ (Treatment Program Details มี.ค. 2024): Drive `icoone_40_Programs_Reference_r01_20260510.xlsx` (1TEF21PEqfIJfcRgo9FwWkmMGmyDcb8LS) · ฉบับเทรนนิ่ง `icoone_40_Programs_Training_Edition_r01_20260510.xlsx` (1LgbnCv1Ra38Sb2_3fw7frI12aO292T3V · มีส่วนที่ BIB เขียนเพิ่ม ต้องตรวจ) → ใช้ก่อนทุกงานโปรโตคอล
