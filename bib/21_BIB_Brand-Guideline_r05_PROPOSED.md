@@ -72,13 +72,27 @@
 ### 9. Who We Are Not For (เพิ่ม)
 - ธุรกิจเปิดใหม่ที่ยังไม่มีลูกค้า (ไม่มี traffic พิสูจน์) [ข้อมูล · งานวิจัย 5 พ.ย. + เคส Phuket Detox]
 
+## 10. ปรับให้เข้ากับ Booklet 2026 (เพิ่ม 15 พ.ย. · ดูไฟล์ 23)
+แนวคิด: Booklet คือ "โลก icoone" สำหรับผู้บริโภค · Guideline BIB วางเป็น 2 ชั้นที่ใช้ภาษาภาพเดียวกัน
+| ชั้น | ใช้ที่ | สี | เสียง |
+|---|---|---|---|
+| BIB (บริษัท · B2B) | profile · proposal · Lab · เว็บ BIB | Graphite · Taupe · Ivory | แม่น ตัวเลขธุรกิจนำ |
+| icoone ผ่าน BIB (ผู้บริโภค) | booklet · โซเชียล · สื่อคลินิก | 4 สีตามความต้องการ (Body Blush · Face Sand · Recovery Mist + สีบท Muscle) บนพื้นขาว | pain จากเสียงลูกค้า → กลไก → หลักฐาน → ลองเอง |
+- โครงหน้ามาตรฐานของ icoone ทุกสื่อ: หัวบทตัวบางพิมพ์ใหญ่ → 4 ประโยคเสียงลูกค้า → กลไก 1 ภาพ → เคสจริง (โปรแกรม · ครั้ง · ความถี่) → ลองพิสูจน์เอง
+- หลักฐานทางสังคม: ใช้สถาบันและลูกค้าจริงที่ได้รับอนุญาต แทนดารา/ปกนิตยสาร
+- ภาพ: ส่วนร่างกายที่พูดถึง ครอปใกล้ พื้นเรียบ + ภาพเครื่องจริง · เลิกผ้าพลิ้วและนางแบบ stock
+- ปก: icoone LASER MED นำ · BIB อยู่ในฐานะผู้นำเข้า
+- Big idea ของ Booklet รุ่นถัดไป [AI เสนอ]: "รู้สึกได้ วัดได้ · Feel it. Measure it." = Cares (รู้สึกดี) + Precision (วัดได้) · พิสูจน์ด้วย Precision Card ภาพความร้อนของตัวเอง
+
 ## รออนุมัติ (ตอบเป็นเลข)
 | # | เรื่อง | ทางเลือก | แนะนำ |
 |---|---|---|---|
-| 1 | บทบาท/descriptor | ก. Practice Activation & Market Development Partner · ข. Clinic Growth Partner · ค. คงของ r04 | ก |
+| 1 | บทบาท/descriptor | ใช้ตาม canon (Practice Activation & Market Development Partner) · วางคู่โลโก้ไหม: ก. ใช้เฉพาะ profile/proposal · ข. ตัด ใช้ภาษาไทยอธิบายแทน | ก |
 | 2 | Corporate line | ก. แม่นแบบการแพทย์ เบาแบบการดูแล / Medical precision. Gentle care. · ข. คง Beyond Beauty. Integrative Well-being. | ก |
 | 3 | หน้าตาเอกสาร Bento | ก. ใช้สีและฟอนต์ BIB (Ivory/Charcoal/Taupe + Kanit/Muli) · ข. ใช้ชุดหน้า Lab (เขียว + Space Grotesk/Inter/Noto) | ก |
 | 4 | Essence | ก. Precision Beauty that Cares · ข. คง Intelligent Regenerative Well-being | ก |
 | 5 | Beauty philosophy "Real Beauty" ในงานผู้บริโภค | ก. คงไว้ · ข. ตัด | ก |
 | 6 | สีดินเผา #a56145 | ก. เพิ่มเป็นสีเสริม (ไม่เกิน 10%) · ข. ใช้เฉพาะแพลตฟอร์ม | ข |
 | 7 | ตัวละคร Beau & Belle | ยืนยันชื่อ | — |
+| 8 | Booklet รุ่นถัดไป | ก. แก้เฉพาะคำกล่าวอ้าง/เคสผิด แล้วพิมพ์ซ้ำ · ข. ทำใหม่ตามโครงข้อ 10 | ข (ระหว่างนี้ทำ ก ก่อนแจกต่อ) |
+| 9 | Big idea | ก. รู้สึกได้ วัดได้ · Feel it. Measure it. · ข. คง rediscover the beauty of being yourself | ก |
