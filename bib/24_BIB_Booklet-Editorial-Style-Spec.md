@@ -74,7 +74,13 @@ AVOID
 - หน้าเรื่อง (Editorial) ใช้แบบ 2 · 3 · 4 · 6 · 11 · ตาราง KPI/Funnel ย้ายเป็นหน้าข้อมูลท้ายชุด (ภาคผนวก)
 - "เสียงลูกค้า" ฝั่ง B2B = คำพูดเจ้าของคลินิกจริง เช่น "อยากเพิ่มบริการใหม่ แต่ไม่แน่ใจว่าลูกค้าของเราจะซื้อหรือเปล่า" (หน้า Landing)
 
-## Tagline B2B · Precision Beauty. Trusted Growth. [นายพูด 15 พ.ย. 2026 · คีปคำนี้]
+## Tagline [นายพูด 15 พ.ย. 2026]
+- แกน: Precision Beauty
+- B2B: Precision Beauty. Trusted Growth.
+- B2C: Precision Beauty. Genuine Care.
+- transcreation อยู่ใน bib-voice แล้ว (เสนอเข้าสกิล 15 พ.ย.)
+
+### Tagline B2B · Precision Beauty. Trusted Growth.
 ภาษาไทยใช้วิธี transcreation (ตีความแล้วสร้างคำใหม่) ไม่แปลตรง · prompt ที่ใช้สั่ง AI:
 
 ```
