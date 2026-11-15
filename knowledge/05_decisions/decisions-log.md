@@ -35,3 +35,9 @@
 - Design · BIB 2027 Precision Business Lab (โปสเตอร์ EN สำหรับ icoone อิตาลี ไม่มี WOW + mock-up ไทยสำหรับพาร์ตเนอร์): https://claude.ai/artifact/SZZgBu4cfCkKBhF1oyi4Yy
 - Whiteboard · WOW Precision ภาพใหญ่แบบ Startup: https://claude.ai/artifact/FwNTF9eyHp9hQqBdmNSf2J
 - เรื่องเฉพาะ BIB (ลีด funnel ลูกค้า) อยู่ในโปรเจกต์ Claude "BIB"
+
+## 15 พ.ย. 2026 (ช่วงสาย)
+- [ไนน์พูด] วิทยานิพนธ์ PhD (NIDA) ทำหัวข้อนวดไทย · Expert Paradox ให้ WOW พิสูจน์เองนอกวิทยานิพนธ์ · เหตุผล: จบได้จริง + เลี่ยงผลประโยชน์ทับซ้อน
+- [AI เสนอ · ไนน์เห็นด้วย] ชื่อแก่นความรู้ของ WOW: Expert Paradox · "ยิ่งเก่ง ยิ่งพูดกับ AI ยาก"
+- [ไนน์พูด] เสียงแบรนด์: อินโทรต้องมี hook → pain ของใคร → เขียนให้ใคร · ไม่อวดประวัติ · นับตัวเองรวมในปัญหา
+- รายละเอียด: ไฟล์ WOW_context-update_2026-11-15b.md (อัปลงโปรเจกต์ WOW)
