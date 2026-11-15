@@ -2,6 +2,7 @@
 เรื่องใหม่เพิ่มบนสุด · ป้าย [นายพูด] = นายตัดสินแล้ว · [รอ] = ยังไม่ตัดสิน
 
 ## 15 พ.ย. 2026
+- [นายพูด] Precision Business Lab = ชื่อร่ม · ทุกคอร์สเป็น Lab แยกกันด้วยชื่อคอร์ส · ไม่มี icoone Academy · I-Tech มี certificate ให้ BIB ออกเมื่อสอน icoone · Aman/Anantara มีใบอนุญาตคลินิก
 ### ตัดสินแล้ว
 - [นายพูด] BIB = นายเป็น co-founder · WOW = นายเป็น founder คนเดียว · คิดสองชุดแยกกัน ใช้วิธีเดียวกัน
 - [นายพูด] Opportunity Scanner และ Precision Business Lab เป็นของ WOW · BIB เป็นลูกค้ารายแรก

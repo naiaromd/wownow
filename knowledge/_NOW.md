@@ -16,6 +16,7 @@
 - ชื่อวิธีคิดของซีรีส์ · คำแปล mor nuad · จะลงตอน 1 ที่ไหนก่อน (เว็บ WOW หรือบล็อกสมาคม)
 
 ## เพิ่งตัดสิน (15 พ.ย. 2026)
+- Precision Business Lab รวมเป็น canon แล้ว ([precision-academy](03_strategy/precision-academy.md)) · Funnel ของ BIB อยู่ที่ bib/15
 - ชื่อผู้ใช้คือ นาย/Nai (ไม่ใช่ ไนน์/Nine)
 - ซีรีส์นี้คือรายการ คิด.คู่ใจ ใน Brand Standard · เสียง AI = ใจ
 - WOW ใช้ Project เดียว ชื่อ "WOW · Wise Of Wellness"
